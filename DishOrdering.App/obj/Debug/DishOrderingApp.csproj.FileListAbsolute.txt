@@ -1,0 +1,1 @@
+G:\Projects\DishOrderingApp\bin\Debug\DishOrderingApp.exe.config

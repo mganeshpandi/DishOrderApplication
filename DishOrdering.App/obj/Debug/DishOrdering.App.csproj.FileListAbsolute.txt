@@ -1,0 +1,9 @@
+G:\Projects\DishOrderingApp\bin\Debug\DishOrdering.App.exe.config
+G:\Projects\DishOrderingApp\bin\Debug\DishOrdering.App.exe
+G:\Projects\DishOrderingApp\bin\Debug\DishOrdering.App.pdb
+G:\Projects\DishOrderingApp\obj\Debug\DishOrdering.App.csprojResolveAssemblyReference.cache
+G:\Projects\DishOrderingApp\obj\Debug\DishOrdering.App.exe
+G:\Projects\DishOrderingApp\obj\Debug\DishOrdering.App.pdb
+G:\Projects\DishOrderingApp\DishOrdering.App\bin\Debug\DishOrdering.App.exe.config
+G:\Projects\DishOrderingApp\DishOrdering.App\obj\Debug\DishOrdering.App.exe
+G:\Projects\DishOrderingApp\DishOrdering.App\obj\Debug\DishOrdering.App.pdb

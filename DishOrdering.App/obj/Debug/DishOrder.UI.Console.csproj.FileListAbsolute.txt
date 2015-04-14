@@ -1,0 +1,2 @@
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrdering.App\bin\Debug\DishOrder.UI.Console.exe.config
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrdering.App\bin\Debug\DishOrder.UI.exe.config

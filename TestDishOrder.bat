@@ -1,0 +1,1 @@
+MSTest /testcontainer:D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Test\bin\Debug\DishOrder.Test.dll

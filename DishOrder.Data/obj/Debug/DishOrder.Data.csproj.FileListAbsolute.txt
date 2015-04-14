@@ -1,0 +1,7 @@
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\bin\Debug\DishOrder.Data.dll
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\bin\Debug\DishOrder.Data.pdb
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\bin\Debug\DishOrder.Entity.dll
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\bin\Debug\DishOrder.Entity.pdb
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\obj\Debug\DishOrder.Data.csprojResolveAssemblyReference.cache
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\obj\Debug\DishOrder.Data.dll
+D:\Ganesh\sampleapp\DishOrderingApp\DishOrder.Data\obj\Debug\DishOrder.Data.pdb
