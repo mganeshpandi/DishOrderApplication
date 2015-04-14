@@ -20,7 +20,7 @@ namespace DishOrder.Test
         [TestMethod]
         public void TestOrderDishMorning1()
         {   
-            string[] input = {"morninssg","1","2","3"};
+            string[] input = {"morning","1","2","3"};
 
             string result = dishOrderBL.Order(input);
 
